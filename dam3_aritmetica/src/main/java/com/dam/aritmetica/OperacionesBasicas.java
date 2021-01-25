@@ -22,9 +22,4 @@ public class OperacionesBasicas {
 		return a/b;
 	}
 	
-	public static int areaTriangulo(int a, int b)
-	{
-		return (a*b)/2;
-	}
-	
 }
