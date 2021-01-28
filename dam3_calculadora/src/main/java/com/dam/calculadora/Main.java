@@ -16,6 +16,7 @@ public class Main {
 			System.out.println("2.- RESTA.");
 			System.out.println("3.- MULTIPLICACION");
 			System.out.println("4.- DIVISION");
+			System.out.println("7.- AREA TRIANGULO");
 			System.out.println("0.- SALIR");
 			System.out.println("INTRODUZCA OPCION");
 
